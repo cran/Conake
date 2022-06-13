@@ -1,7 +1,7 @@
 simp_int <-
 function (x, fx, n.pts = 256, ret = FALSE) 
 {
-       if (class(fx) == "function") 
+    if (inherits(fx, "function") )
         fx = fx(x)
     n.x = length(x)
     if (n.x != length(fx)) 

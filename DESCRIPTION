@@ -2,7 +2,7 @@ Encoding: UTF-8
 Package: Conake
 Type: Package
 Title: Continuous Associated Kernel Estimation
-Version: 1.0
+Version: 1.0.1
 Date: 2015-02-27
 Author: W. E. Wansouwé, F. G. Libengué and C. C. Kokonendji
 Maintainer: W. E. Wansouwé <ericwansouwe@gmail.com>
@@ -10,7 +10,7 @@ Description: Continuous smoothing of probability density function on a compact o
 License: GPL (>= 2)
 LazyLoad: yes
 URL: www.r-project.org
-Packaged: 2015-02-28 22:02:10 UTC; wansouwe
+Packaged: 2022-06-13 14:32:21 UTC; hornik
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-03-01 08:16:08
+Date/Publication: 2022-06-13 15:03:41 UTC
